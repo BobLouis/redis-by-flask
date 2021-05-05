@@ -3,5 +3,6 @@
 ..
 __pycache__
 dump.rdb
-lib
+lib/
 pyvenv.cfg
+bin/
